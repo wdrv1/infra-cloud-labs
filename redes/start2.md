@@ -12,4 +12,4 @@
 
 ## Observações:
 - Descobri qual o papel do DNS quando acessamos um website, e descobri que ele que faz o mapeamento do endereço de IP e o nome do domínio.
-- 
+- Utilizei o comando nslookup para obter informações sobre o servidor DNS do domínio que utilizei, como por exemplo: Endereço de IP e Servidor de domínio.

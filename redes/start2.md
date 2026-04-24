@@ -10,4 +10,6 @@
 ## Testes Realizados:
 - Nslookup
 
+## Observações:
+- Descobri qual o papel do DNS quando acessamos um website, e descobri que ele que faz o mapeamento do endereço de IP e o nome do domínio.
 - 

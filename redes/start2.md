@@ -6,3 +6,8 @@
 - Teste de conectividade
 - DNS e NSlookup
 - Cabos de conexão
+
+## Testes Realizados:
+- Nslookup
+
+- 

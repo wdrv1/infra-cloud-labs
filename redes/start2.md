@@ -11,5 +11,6 @@
 - Nslookup
 
 ## Observações:
+- Após fazer a instalação do Packet Tracer, criei uma rede com 3 computadores com IP fixo, e logo após criar a rede, fiz o teste de conectividade utilizando o comando ping via cmd.
 - Descobri qual o papel do DNS quando acessamos um website, e descobri que ele que faz o mapeamento do endereço de IP e o nome do domínio.
 - Utilizei o comando nslookup para obter informações sobre o servidor DNS do domínio que utilizei, como por exemplo: Endereço de IP e Servidor de domínio.

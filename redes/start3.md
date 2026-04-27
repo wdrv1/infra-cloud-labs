@@ -4,3 +4,9 @@
 - Contruir redes com switches
 - Monitorar o tráfego de rede
 - Máscara de rede
+
+# Testes realizados:
+-
+
+# Observações:
+-
